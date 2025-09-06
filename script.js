@@ -2,8 +2,8 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Configuration
   const config = {
-    whatsappNumber: '+918808889992', // Replace with your WhatsApp number
-    phoneNumber: '+918808889992'     // Replace with your phone number
+    whatsappNumber: '+917268099039', // Replace with your WhatsApp number
+    phoneNumber: '+917268099039'     // Replace with your phone number
   };
 
   // Mobile menu toggle
@@ -511,3 +511,4 @@ const utils = {
 
 // Export utils for external use if needed
 window.MobileShopUtils = utils;
+
